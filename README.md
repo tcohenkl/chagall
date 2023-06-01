@@ -39,6 +39,6 @@ npm run lint
 
 ## Reflection
 
-This was a 3 week project made with @tcohenkl to learn web application development and familiarize myself with using APIs. Originally this project used the Harvard Art Museums API, but due to poor tagging we switched to the MET Museum's API, which we would definitely recommend for any art projects. 
+This was a 3 week project made with @ericnem to learn web application development and familiarize myself with using APIs. Originally this project used the Harvard Art Museums API, but due to poor tagging we switched to the MET Museum's API, which we would definitely recommend for any art projects. 
 
 All in all, this project uses the axios and anime libraries, Vue3 and everything that's in it: JS, HTML and CSS.
